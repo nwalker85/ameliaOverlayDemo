@@ -1,17 +1,17 @@
 {
   "originUrl": "https://us.demo.amelia.com/",
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/chat?domainCode=derricksteele",
-  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/",
-  "parentUrl": "https://www.usbank.com/index.html",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/nathanwalker/chat?domainCode=nathanwalker",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/nathanwalker/",
+  "parentUrl": "https://www.sportsmans.com/",
   "actions": {
-    "nav_debit_cards": {
-      "url": "https://www.usbank.com/bank-accounts/checking-accounts/debit-cards.html"
+    "nav_hunting": {
+      "url": "https://www.sportsmans.com/hunting-gear-supplies/c/cat100000"
     },
-    "nav_boat_loans": {
-      "url": "https://www.usbank.com/vehicle-loans/boat-loans-and-boat-financing.html"
+    "nav_fishing": {
+      "url": "https://www.sportsmans.com/fishing-gear-supplies/c/cat101026"
     },
-    "nav_fund_education": {
-      "url": "https://www.usbank.com/investing/financial-goals/529-plans.html"
+    "nav_my_account": {
+      "url": "https://www.sportsmans.com/login"
     }
   }
 }
