@@ -1,11 +1,11 @@
 {
-  "originUrl": "https://us.demo.amelia.com/",
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/nathanwalker/chat?domainCode=nathanwalker",
-  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/nathanwalker/",
-  "parentUrl": "https://www.fhcsd.org/",
+  "originUrl": "https://ford.demo.amelia.com/",
+  "ameliaUrl": "https://ford.demo.amelia.com/Amelia/",
+  "chatUrl": "https://ford.demo.amelia.com/Amelia/",
+  "parentUrl": "https://www.ford.com/myaccount/account-dashboard",
   "actions": {
-    "nav_findClinic": {
-      "url": "https://www.fhcsd.org/clinic-location-list/"
+    "nav_account_settings": {
+      "url": "https://www.ford.com/myaccount/account-settings"
     }
   }
 }
