@@ -1,7 +1,7 @@
 {
   "originUrl": "https://thermofisher.demo.amelia.com/",
   "ameliaUrl": "https://thermofisher.demo.amelia.com/Amelia/chat",
-  "chatUrl": "https://thermofisher.demo.amelia.com/Amelia/,
+  "chatUrl": "https://thermofisher.demo.amelia.com/Amelia/",
   "parentUrl": "https://www.thermofisher.com/us/en/home.html",
   "actions": {
     "nav_account_settings": {
