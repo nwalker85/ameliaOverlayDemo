@@ -1,7 +1,7 @@
 {
-  "originUrl": "https://ford.demo.amelia.com/",
-  "ameliaUrl": "https://ford.demo.amelia.com/Amelia/ui/Ford/chat?domainCode=ford",
-  "chatUrl": "https://ford.demo.amelia.com/Amelia/ui/Ford/",
+  "originUrl": "https://us.demo.amelia.com/",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/Ford/chat?domainCode=ford",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/Ford/",
   "parentUrl": "https://www.ford.com/myaccount/account-dashboard",
   "actions": {
     "nav_account_settings": {
