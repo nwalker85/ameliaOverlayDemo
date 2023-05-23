@@ -1,11 +1,14 @@
 {
-  "originUrl": "https://us.demo.amelia.com/",
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/nathanwalker/?domainCode=nathanwalker",
-  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/nathanwalker/",
-  "parentUrl": "https://www.coastdental.com/",
-  "actions": {
-    "nav_find_a_location": {
-      "url": "https://www.coastdental.com/locations"
+    "originUrl": "https://us.demo.amelia.com/",
+    "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/nathanwalker/?domainCode=nathanwalker",
+    "chatUrl": "https://us.demo.amelia.com/Amelia/ui/nathanwalker/",
+    "parentUrl": "https://www.coastdental.com/",
+    "actions": {
+      "nav_find_a_location": {
+            "url": "https://www.coastdental.com/locations"
+        },
+        "nav_billpay": {
+            "url":"https://www.coastdental.com/pay"
+        }
     }
-  }
-}
+}  
