@@ -53,7 +53,9 @@ Replace the values above with ones that make sense for your demo/environment. Th
 ### DEB/BPN
 
 To send a message to allow navigation, this message needs to come from the DEB/BPN. Below is an example script:
-```import groovy.json.JsonOutput
+```
+
+import groovy.json.JsonOutput
  
 def jsonString = '''{
     "action": "sendChatOverlayEvent",
