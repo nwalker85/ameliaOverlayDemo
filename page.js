@@ -124,6 +124,7 @@ function receiveMessage(e, data) {
     //     return;
     if (action.includes("nav")) {
         console.log("Loading navigation element");
+        console.log(jsonData)
         let actionUrl = jsonData.actions[action].url;
         loadiFrame(actionUrl);
         console.log('Sent URL to chat frame');
