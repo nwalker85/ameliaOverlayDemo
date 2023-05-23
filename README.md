@@ -73,19 +73,10 @@ def jsonString = '''{
 }'''
  
 jsonString = JsonOutput.toJson(jsonString)
-execution.setVariable("jsonString", jsonString)
+messageService.sendIntegrationMessage(jsonString)
 ```
 
 This will send a message back to the parent page where a JS listener will await an action. In the above example, nav_pst5.
-
-For BPNs, create a task for with "send the integration message jsonString"
-
-For DEB flows, use the following in your script:
-```import groovy.json.JsonOutput
-
-jsonString = JsonOutput.toJson(jsonString)
-messageService.sendIntegrationMessage(jsonString)
-```
 
 ### JS
 
