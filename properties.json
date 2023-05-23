@@ -4,7 +4,7 @@
   "chatUrl": "https://us.demo.amelia.com/Amelia/ui/nathanwalker/",
   "parentUrl": "https://www.coastdental.com/",
   "actions": {
-    "find_a_location": {
+    "nav_find_a_location": {
       "url": "https://www.coastdental.com/locations"
     }
   }
