@@ -1,8 +1,8 @@
 {
-    "originUrl": "https://us.demo.amelia.com/",
-    "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/nathanwalker/?domainCode=nathanwalker",
-    "chatUrl": "https://us.demo.amelia.com/Amelia/ui/nathanwalker/",
-    "parentUrl": "https://www.coastdental.com/",
+    "originUrl": "https://nate.demo.amelia.com/",
+    "ameliaUrl": "https://nate.demo.amelia.com/Amelia/",
+    "chatUrl": "https://nate.demo.amelia.com/Amelia/",
+    "parentUrl": "https://web.musc.edu/",
     "actions": {
       "nav_find_a_location": {
             "url": "https://www.coastdental.com/locations"
