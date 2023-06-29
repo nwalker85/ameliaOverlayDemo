@@ -2,13 +2,10 @@
     "originUrl": "https://nate.demo.amelia.com/",
     "ameliaUrl": "https://nate.demo.amelia.com/Amelia/",
     "chatUrl": "https://nate.demo.amelia.com/Amelia/",
-    "parentUrl": "https://web.musc.edu/",
+    "parentUrl": "https://www.adventhealth.com/",
     "actions": {
-      "nav_find_a_location": {
-            "url": "https://www.coastdental.com/locations"
-        },
-        "nav_billpay": {
-            "url":"https://www.coastdental.com/pay"
+      "nav_urgentcare": {
+            "url": "https://www.adventhealth.com/schedule-urgent-care"
         }
     }
 }  
