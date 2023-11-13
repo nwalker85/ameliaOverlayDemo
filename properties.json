@@ -2,10 +2,10 @@
     "originUrl": "https://nate.demo.amelia.com/",
     "ameliaUrl": "https://nate.demo.amelia.com/Amelia/",
     "chatUrl": "https://nate.demo.amelia.com/Amelia/",
-    "parentUrl": "https://www.gsk.com/en-gb/",
+    "parentUrl": "https://www.englewoodhealth.org/",
     "actions": {
-      "nav_urgentcare": {
-            "url": "https://www.adventhealth.com/schedule-urgent-care"
+      "nav_visitorInformation": {
+            "url": "https://www.englewoodhealth.org/for-patients-and-visitors/visitors-information"
         }
     }
 }  
