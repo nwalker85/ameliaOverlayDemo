@@ -2,10 +2,10 @@
     "originUrl": "https://nate.demo.amelia.com/",
     "ameliaUrl": "https://nate.demo.amelia.com/Amelia/",
     "chatUrl": "https://nate.demo.amelia.com/Amelia/",
-    "parentUrl": "https://www.englewoodhealth.org/",
+    "parentUrl": "https://www.torrid.com/",
     "actions": {
-      "nav_visitorInformation": {
-            "url": "https://www.englewoodhealth.org/for-patients-and-visitors/visitors-information"
+      "nav_returnPolicy": {
+            "url": "https://www.torrid.com/torrid/customer-service/how-can-we-help/td-customerservice-help-returnpolicy.html"
         }
     }
 }  
