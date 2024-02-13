@@ -1,8 +1,8 @@
 {
-    "originUrl": "https://simplyglobal.demo.amelia.com/",
-    "ameliaUrl": "https://simplyglobal.demo.amelia.com/Amelia/",
-    "chatUrl": "https://simplyglobal.demo.amelia.com/Amelia/",
-    "parentUrl": "https://www.simplyglobal100.com/",
+    "originUrl": "https://deltapro.demo.amelia.com/",
+    "ameliaUrl": "https://deltapro.demo.amelia.com/Amelia/",
+    "chatUrl": "https://deltapro.demo.amelia.com/Amelia/",
+    "parentUrl": "https://pro.delta.com/",
     "actions": {
       "nav_returnPolicy": {
             "url": "url here"
